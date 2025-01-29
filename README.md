@@ -42,7 +42,7 @@ Below is a demo video showcasing the core functionalities of the project, includ
 
 ---
 
-## **4. Key Features**
+## **4. Key Features** corresponding to marking criteria
 
 1. **Physics-Driven Ball Movement**:
    - The ball's movement is powered by Unity's Rigidbody and AddForce system for dynamic interactions.
