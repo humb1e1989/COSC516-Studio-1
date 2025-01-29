@@ -29,10 +29,7 @@ Key features of the project include:
 - **Movement**:
   - Use **WASD** or arrow keys to control the ball's movement on the plane.
 - **Jump**:
-  - Press **Space** to make the ball jump (only when the ball is on the ground).
-- **Objective**:
-  - Collect all the pickup objects (yellow cubes) scattered across the scene.
-  - Each collected item increases the score by 1.
+  - Press **Space** to make the ball jump (**ONLY** when the ball is on the ground).
 
 ### **Notes**
 - The ball is affected by gravity, so be careful to avoid falling off the edges.
