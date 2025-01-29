@@ -23,7 +23,7 @@ public class BallController : MonoBehaviour
 
 
 
-    void FixedUpdate()
+    void Update()
     {
         // invoke Input Detector
         InputDetector();
