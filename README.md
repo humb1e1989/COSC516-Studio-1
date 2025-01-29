@@ -37,10 +37,9 @@ Welcome to the **Roll-A-Ball** project. This project is about how to create a si
 Below is a demo video showcasing the core functionalities of the project, including ball movement, jumping, and collecting objects:
 
 [![Roll-A-Ball Demo Video]https://github.com/user-attachments/assets/f6d5d357-3bf0-4522-aa7e-32785c143c82]
-https://github.com/user-attachments/assets/f6d5d357-3bf0-4522-aa7e-32785c143c82
 
 > Click the image above to view the full demo video.
-
+https://github.com/user-attachments/assets/f6d5d357-3bf0-4522-aa7e-32785c143c82
 
 
 ---
