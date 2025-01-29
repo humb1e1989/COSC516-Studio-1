@@ -54,9 +54,7 @@ Below is a demo video showcasing the core functionalities of the project, includ
    - The ball's movement is powered by Unity's Rigidbody and AddForce system for dynamic interactions.
 2. **Real-Time User Input**:
    - Keyboard inputs control the ball's direction and jumping actions in real time.
-3. **Pickup and Scoring System**:
-   - Pickup objects trigger `OnTriggerEnter` events, causing them to disappear and incrementing the score.
-4. **Bonus Feature**:
+3. **Bonus Feature**:
    - A jumping mechanic is implemented with collision detection to prevent mid-air double jumps.
 
 ---
