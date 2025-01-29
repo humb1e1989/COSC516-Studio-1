@@ -13,8 +13,6 @@ Key features of the project include:
 - Visual enhancements through materials and animations.
 - A **bonus feature**: The ability for the ball to jump, implemented with collision detection to prevent multi-jump exploits.
 
-This project serves as a foundation for understanding Unity game development principles while showcasing polished functionality and interactive gameplay.
-
 ---
 
 ## **2. User Guide**
