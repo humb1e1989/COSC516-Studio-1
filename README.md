@@ -3,7 +3,7 @@
 
 ## **1. Project Introduction**
 
-Welcome to the **Roll-A-Ball** project. This project is about how to create a simple environment where a player controls a rolling ball on a plane, collecting objects while avoiding falling off the edges.
+Welcome to the **Roll-A-Ball** project. This project is about how to create a simple environment where a player controls a rolling ball on a plane while avoiding falling off the edges.
 
 ---
 
@@ -28,13 +28,12 @@ Welcome to the **Roll-A-Ball** project. This project is about how to create a si
 - The ball is affected by gravity, so be careful to avoid falling off the edges.
 - If the ball cannot move or jump:
   - Ensure that ground objects are tagged as `Ground`.
-  - Ensure that pickup objects have the **Is Trigger** option enabled in the Inspector.
 
 ---
 
 ## **3. Project Demo Video**
 
-Below is a demo video showcasing the core functionalities of the project, including ball movement, jumping, and collecting objects:
+Below is a demo video showcasing the core functionalities of the project, including ball movement and jumping.
 
 <video src="https://github.com/user-attachments/assets/f6d5d357-3bf0-4522-aa7e-32785c143c82"></video>
 
