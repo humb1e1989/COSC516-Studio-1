@@ -9,7 +9,6 @@ Welcome to the **Roll-A-Ball** project, a beginner-friendly Unity 101 project de
 Key features of the project include:
 - Physics-based movement for a dynamic ball controller.
 - Real-time user input detection using the keyboard.
-- A collision-based scoring system for collecting objects.
 - Visual enhancements through materials and animations.
 - A **bonus feature**: The ability for the ball to jump, implemented with collision detection to prevent multi-jump exploits.
 
