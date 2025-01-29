@@ -16,7 +16,7 @@ Key features of the project include:
 ## **2. User Guide**
 
 ### **Running the Project**
-1. Clone the repository from GitHub:
+1. Clone the repository from GitHub(or open with Github Desktop):
    ```bash
    git clone <repository-url>
    cd RollABall
