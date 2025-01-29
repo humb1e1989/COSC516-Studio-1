@@ -5,12 +5,6 @@
 
 Welcome to the **Roll-A-Ball** project. This project is about how to create a simple environment where a player controls a rolling ball on a plane, collecting objects while avoiding falling off the edges.
 
-Key features of the project include:
-- Physics-based movement for a dynamic ball controller.
-- Real-time user input detection using the keyboard.
-- Visual enhancements through materials and animations.
-- A **bonus feature**: The ability for the ball to jump, implemented with collision detection to prevent multi-jump exploits.
-
 ---
 
 ## **2. User Guide**
