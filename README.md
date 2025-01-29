@@ -3,7 +3,7 @@ This is the submission for the COSC516 Studio 1.
 
 ## **1. Project Introduction**
 
-Welcome to the **Roll-A-Ball** project, a beginner-friendly Unity 101 project designed to introduce you to Unity's core features, including physics systems, scripting, and user input handling. This project demonstrates how to create a simple environment where a player controls a rolling ball on a plane, collecting objects while avoiding falling off the edges.
+Welcome to the **Roll-A-Ball** project. This project is about how to create a simple environment where a player controls a rolling ball on a plane, collecting objects while avoiding falling off the edges.
 
 Key features of the project include:
 - Physics-based movement for a dynamic ball controller.
